@@ -24,7 +24,7 @@ To view my KOTHA website, follow these steps:
 
 1. **Homepage (`index.html`)**: The homepage serves as an introduction to the website and provides navigation links to the other pages.
 
-2. **Heartfull Confession Page (`heartfull-confession.html`)**: This page features a long, heartfelt message expressing your love and admiration for Kotha.
+2. **Heartfelt Confession Page (`heartfull-confession.html`)**: This page features a long, heartfelt message expressing your love and admiration for Kotha.
 
 3. **Poem Page (`poem.html`)**: This page showcases a romantic poem dedicated to your crush, Kotha.
 
